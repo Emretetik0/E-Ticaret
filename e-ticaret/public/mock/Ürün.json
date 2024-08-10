@@ -1,0 +1,70 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "DURAMO RC AYAKKABI",
+        "category": "Koşu",
+        "price": 2799,
+        "year": 2024,
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/22cf02aef5a54dc1a0ffafd301435b2e_9366/Duramo_RC_Ayakkabi_Siyah_ID2704_01_standard.jpg"
+      },
+      {
+        "id": 2,
+        "name": "CRAZYCHAOS 2000",
+        "category": "Koşu",
+        "price": 3659 ,
+        "year": 2024,
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/674376fabd6d4176b55e92e9c3af0ffb_9366/Crazychaos_2000_Ayakkabi_Siyah_IG4406_01_standard.jpg"
+      },
+      {
+        "id": 3,
+        "name": "RUN 70S 2.0",
+        "category": "Koşu",
+        "price": 2999 ,
+        "year": 2023,
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b38a733909c849bcb7f34f9da96669ab_9366/RUN_70s_2.0_Yesil_IH8587_01_standard.jpg"
+      },
+      {
+        "id": 4,
+        "name": "RUN 70S 2.2",
+        "category": "Koşu",
+        "price": 3500 ,
+        "year": 1976,
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b38a733909c849bcb7f34f9da96669ab_9366/RUN_70s_2.0_Yesil_IH8587_01_standard.jpg"
+      },
+      {
+        "id": 5,
+        "name": "DURAMO RC AYAKKABI(2)",
+        "category": "Koşu",
+        "price": 8000,
+        "year": 2019,
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/22cf02aef5a54dc1a0ffafd301435b2e_9366/Duramo_RC_Ayakkabi_Siyah_ID2704_01_standard.jpg"
+      },
+      {
+        "id": 6,
+        "name": "CRAZYCHAOS 2001",
+        "category": "Koşu",
+        "price": 8456 ,
+        "year": 2001,
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/674376fabd6d4176b55e92e9c3af0ffb_9366/Crazychaos_2000_Ayakkabi_Siyah_IG4406_01_standard.jpg"
+      },
+      {
+        "id": 7,
+        "name": "RUN 70S 2.4",
+        "category": "Koşu",
+        "price": 1200 ,
+        "year": 1000,
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b38a733909c849bcb7f34f9da96669ab_9366/RUN_70s_2.0_Yesil_IH8587_01_standard.jpg"
+      },
+      {
+        "id": 8,
+        "name": "RUN 70S 1.1.1",
+        "category": "Koşu",
+        "price": 1 ,
+        "year": 1,
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b38a733909c849bcb7f34f9da96669ab_9366/RUN_70s_2.0_Yesil_IH8587_01_standard.jpg"
+      }
+
+    ]
+  }
+  
